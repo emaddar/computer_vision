@@ -1,4 +1,0 @@
-opencv-python
-pyaudio
-wave
-numpy
